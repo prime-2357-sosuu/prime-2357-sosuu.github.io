@@ -1,1 +1,1 @@
-<link rel="icon" href="./img/favicon64.png" sizes=64x64">
+<link rel="icon" href="/img/favicon64.ico" type="image/x-icon">
